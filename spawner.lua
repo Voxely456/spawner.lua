@@ -1,4 +1,4 @@
--- 5x2 Touchscreen Mob Control - Jing Kang
+-- 5x2 Touchscreen Mob Control --
 
 local monitor = peripheral.wrap("top") -- adjust side if different
 monitor.setTextScale(1)
