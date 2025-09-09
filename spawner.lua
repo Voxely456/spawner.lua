@@ -1,4 +1,4 @@
--- Touchscreen Spawner Control - by Jing Kang
+-- Touchscreen Spawner Control --
 
 local monitor = peripheral.find("monitor")
 monitor.setTextScale(1)
